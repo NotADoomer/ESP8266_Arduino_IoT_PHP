@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "FNN-GUEST"; //Здесь меняете по названию ВайФая
-const char* password = "gmZvyckY";  //Здесь пароль Вайфая
+const char* ssid     = "*****"; //Здесь меняете по названию ВайФая
+const char* password = ""*****";";  //Здесь пароль Вайфая
 
-const char* host = "test.boshon.kz"; // Указывать хост по URI то есть без протокола. К примеру, google.com НЕ https://google.com
+const char* host = ""*****";"; // Указывать хост по URI то есть без протокола. К примеру, google.com НЕ https://google.com
 
 
 
