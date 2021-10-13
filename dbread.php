@@ -2,10 +2,10 @@
 
 
 
-    $host = "srv-db-plesk08.ps.kz:3306";	//Указываем хост
-    $dbname = "boshonkz_esp";              // Название БД
-    $username = "boshonkz_esp";		// Пользователя БД
-    $password = "!e4o53gX";	        // Пароль БД
+    $host = "*****";	//Указываем хост
+    $dbname = "*****";              // Название БД
+    $username = "*****";		// Пользователя БД
+    $password = "*****";	        // Пароль БД
 
 
 // Establish connection to MySQL database
